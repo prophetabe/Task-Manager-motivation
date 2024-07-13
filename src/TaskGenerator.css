@@ -1,0 +1,15 @@
+.task-generator {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .task-details {
+    margin: 10px 0;
+  }
+  
+  button {
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
